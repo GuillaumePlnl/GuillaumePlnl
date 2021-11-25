@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @GuillaumePlnl
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning anything new
+- 💞️ My core competences are .Net and C# as fulstack dev
+- 💞️ I’m looking to collaborate on any motivating project
+- 📫 reach my by mail @ guillaume.planiol@gmail.com
